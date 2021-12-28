@@ -1,7 +1,8 @@
 # Ajay
 
-Hii, 
+Hii 👋, 
   My name is Kashela Ajay.
+  
 I am currently pursuing bachelor of engineering in computer science at The Maharaja Sayajirao University of Baroda.
 
 You can contact me using
