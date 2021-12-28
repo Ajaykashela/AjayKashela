@@ -11,4 +11,3 @@ Email :- ajaydeepsangbhai@gmail.com
 
 Linkedin  :- www.linkedin.com/in/ajay-kashela 
 
-https://raw.githubusercontent.com/isocpp/logos/master/java_logo.png
