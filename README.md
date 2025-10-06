@@ -1,13 +1,11 @@
-# Ajay
+# Kashela Ajay
 
 Hii 👋, 
   My name is Kashela Ajay.
   
-I am currently pursuing bachelor of engineering in computer science at The Maharaja Sayajirao University of Baroda.
+I am currently working as Developer @conga with 4 years of hands-on experience in designing, developing, and implementing solutions.
 
-You can contact me using
-
-Email :- ajaydeepsangbhai@gmail.com
+Email :- kashelaajay123@gmail.com
 
 Linkedin  :- www.linkedin.com/in/ajay-kashela 
 
